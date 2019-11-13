@@ -1,0 +1,22 @@
+.codegym-logo{
+    height: 40px;
+}
+
+.heading{
+    background-image: url("https://demo.codegym.vn/web/codegym-bootstrap-layout/images/banner.jpg");
+    height: 350px;
+    padding-top: 100px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    color: #302dff;
+}
+
+.codegym-intro{
+    margin-top: 15px;
+    padding: 30px;
+    background-color: black;
+}
+.codegym-intro .col-md-3 img{
+    width: 100%;
+    padding-top: 20px;
+}
