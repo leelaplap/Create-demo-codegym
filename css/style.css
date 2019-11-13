@@ -9,14 +9,52 @@
     padding-left: 50px;
     text-transform: uppercase;
     color: #302dff;
+    margin-bottom: 10px;
+    width: 100%;
 }
 
 .codegym-intro{
-    margin-top: 15px;
     padding: 30px;
-    background-color: black;
+    background-color: #404040;
+    margin: 0;
 }
 .codegym-intro .col-md-3 img{
     width: 100%;
     padding-top: 20px;
+}
+
+.project{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.projects{
+margin-bottom: 30px;
+    text-align: center;
+}
+.project1{
+    padding-bottom: 20px;
+}
+
+img{
+    padding-bottom: 15px;
+    width: 100%;
+}
+
+.footer{
+    background-color: #302dff;
+}
+.footer h4{
+    color: white;
+}
+.footer ul{
+    list-style: none;
+    padding: 0;
+}
+.footer ul li a{
+    color: white;
+}
+
+.contact{
+    padding-bottom: 20px;
 }
